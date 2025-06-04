@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "KvK2XATMlQmhl2ktsBvAIs0NYxlA1b05dIorYPbZ5SY=",
+  "Hash": "MVKmiEjg6MzSCCJiTqUGpkJSEdgKubpHNzoI5QNf9eY=",
   "Source": "AviaBackend",
   "BasePath": "_content/AviaBackend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AviaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190669accb3bc2d4959dbe2c50cefe62e57967a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AviaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AviaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

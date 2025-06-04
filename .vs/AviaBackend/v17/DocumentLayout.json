@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\domain\\entities\\productmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:domain\\entities\\productmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\aviabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:aviabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:domain\\entities\\modifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\domain\\entities\\productmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:domain\\entities\\productmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\aviabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|solutionrelative:aviabackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F437A853-463F-4C64-9684-87FF0509E34B}|AviaBackend.csproj|c:\\users\\user\\onedrive\\documents\\github\\aviabackend\\application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -112,16 +112,8 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\MappingProfiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Application\\MappingProfiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\MappingProfiles\\MappingProfile.cs",
-              "RelativeToolTip": "Application\\MappingProfiles\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T03:32:13.114Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -131,26 +123,27 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwB4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T10:20:48.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T10:18:12.532Z"
+              "WhenOpened": "2025-05-19T10:18:12.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
@@ -162,19 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ProductModifier.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Domain\\Entities\\ProductModifier.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ProductModifier.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Domain\\Entities\\ProductModifier.cs",
               "RelativeToolTip": "Domain\\Entities\\ProductModifier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T02:28:46.133Z"
+              "WhenOpened": "2025-05-22T02:28:46.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Api\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\CategoryController.cs",
@@ -186,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
@@ -198,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Api\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\ProductController.cs",
@@ -206,11 +200,12 @@
               "RelativeToolTip": "Api\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T02:31:17.373Z"
+              "WhenOpened": "2025-05-22T02:31:17.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CrudAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\Services\\CrudAppService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\CrudAppService.cs",
@@ -222,7 +217,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AviaBackend.http",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\AviaBackend.http",
+              "RelativeDocumentMoniker": "AviaBackend.http",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\AviaBackend.http",
+              "RelativeToolTip": "AviaBackend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-20T05:38:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:32:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
@@ -234,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Modifier.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Domain\\Entities\\Modifier.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Modifier.cs",
@@ -243,18 +263,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T05:29:23.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AviaBackend.http",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\AviaBackend.http",
-              "RelativeDocumentMoniker": "AviaBackend.http",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\AviaBackend.http",
-              "RelativeToolTip": "AviaBackend.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-20T05:38:33.369Z"
             },
             {
               "$type": "Document",
@@ -270,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Persistence\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\Repository.cs",
@@ -282,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Persistence\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\IRepository.cs",
@@ -294,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ICrudAppService.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\GitHub\\AviaBackend\\Application\\Interfaces\\ICrudAppService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ICrudAppService.cs",
@@ -314,7 +322,8 @@
               "RelativeToolTip": "Application\\DTOs\\Category\\UpdateCategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:21:21.936Z"
+              "WhenOpened": "2025-05-19T11:21:21.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -326,7 +335,8 @@
               "RelativeToolTip": "Application\\DTOs\\Category\\CreateCategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:01:49.881Z"
+              "WhenOpened": "2025-05-19T11:01:49.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

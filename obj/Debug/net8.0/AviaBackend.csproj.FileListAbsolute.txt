@@ -168,3 +168,7 @@ C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Debug\net8.0\AviaBackend
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Debug\net8.0\ref\AviaBackend.dll
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\bin\Debug\net8.0\AviaBackend.staticwebassets.endpoints.json
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Debug\net8.0\AviaBackend.sourcelink.json
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Debug\net8.0\staticwebassets\msbuild.AviaBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

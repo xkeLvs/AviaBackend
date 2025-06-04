@@ -2,7 +2,7 @@
 public class ProductModifier
 {
     public Guid Id { get; set; }
-    public guid
+    //public guid
 
 }
 

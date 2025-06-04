@@ -166,3 +166,6 @@ C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Release\net8.0\refint\Av
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Release\net8.0\AviaBackend.pdb
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Release\net8.0\AviaBackend.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Release\net8.0\ref\AviaBackend.dll
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\obj\Release\net8.0\AviaBackend.sourcelink.json
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\bin\Release\net8.0\AutoMapper.dll
+C:\Users\user\OneDrive\Documents\GitHub\AviaBackend\bin\Release\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
