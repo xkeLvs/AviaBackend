@@ -1,0 +1,6 @@
+@AviaBackend_HostAddress = http://localhost:5225
+
+GET {{AviaBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
