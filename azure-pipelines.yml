@@ -35,9 +35,3 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
-
-- task: DotNetCoreCLI@2
-  inputs:
-    azureSubscription: 'Azure subscription 1(1bd63872-e808-41b5-909b-a052867c276b)'
-    command: 'publish'
-    publishWebProjects: true
