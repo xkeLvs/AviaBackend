@@ -1,0 +1,43 @@
+name: CI/CD for ASP.NET Web API
+
+on:
+  push:
+    branches: [ "main" ]  # or your default branch
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+
+    env:
+      DOTNET_VERSION: '7.0.x'  # Change to 6.0.x or 8.0.x if needed
+
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v3
+
+    - name: 🛠 Setup .NET SDK
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: ${{ env.DOTNET_VERSION }}
+
+    - name: 🔍 Restore dependencies
+      run: dotnet restore
+
+    - name: 🧱 Build
+      run: dotnet build --configuration Release --no-restore
+
+    - name: 🧪 Run tests
+      run: dotnet test --no-build --verbosity normal
+
+    - name: 📦 Publish artifacts
+      run: dotnet publish -c Release -o ./publish
+
+    # Optional deployment step — uncomment if deploying to Azure Web App
+    #- name: 🚀 Deploy to Azure Web App
+    #  uses: azure/webapps-deploy@v2
+    #  with:
+    #    app-name: <YOUR-APP-NAME>
+    #    publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+    #    package: ./publish
